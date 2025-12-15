@@ -60,4 +60,5 @@ Random Forest Classifier (comparison model)
 | Logistic Regression | 0.94     | 0.99     | 0.97      |
 | Random Forest       | 0.92     | 0.97     | 0.95      |
 
-
+![alt text](strealit_1.png)
+![alt text](streamlit_2.png)
